@@ -6,3 +6,5 @@ Playbook at https://docs.google.com/document/d/11ugTxE3yLY9FctxWkUvFMJhF1YZqgpSU
 Public URL to TIF tile for adding to Dashboard https://eox-gtif-public.s3.eu-central-1.amazonaws.com/EOX/Nighttimelevel_Urban_h10v04_2019-2022.tif
 
 Workspace URL: https://workspace.eodashboardlps25.hub-otc-sc.eox.at/
+
+Storytelling instructions: https://docs.google.com/document/d/1rRiROVMwIDbRWNanlsBRn7S4kzmIVOgGHtRSqTP50Vw/edit?tab=t.0
